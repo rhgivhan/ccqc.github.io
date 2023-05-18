@@ -1,0 +1,8 @@
+style: is-dark
+items:
+  - title: Computational
+    icon: fa-laptop
+  - title: Quantum
+    icon: fa-atom
+  - title: Chemistry
+    icon: fa-flask
