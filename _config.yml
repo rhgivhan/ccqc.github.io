@@ -4,9 +4,8 @@ description: >
   Research group website for Henry F. Schaefer III, director of the 
   Center of Computational Quantum Chemistry part of the
   Department of Chemistry at the University of Georgia. 
-baseurl: "/home" # the subpath of your site, e.g. /blog
-url: "https://www.ccqc_uga.com" # the base hostname & protocol for your site, e.g. http://example.com
-permalink: pretty
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: CCQC_UGA
 
 # Build settings
