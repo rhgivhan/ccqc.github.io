@@ -30,7 +30,7 @@ twitter_username: comp_chem32
 github_username:  EricaCMitchell
 
 # Build settings
-theme: minima
+remote_theme: chrisrhymes/bulma-clean-theme
 plugins:
   - jekyll-feed
 
