@@ -4,8 +4,12 @@ subtitle: All Quantum, All the Time
 layout: page
 callouts: home_callouts
 show_sidebar: true
+hero_image: /img/title-card.jpg
+hero_height: is-fullheight
+hero_darken: true
 ---
 
 # Schaefer Research Group
-
-The Schaefer group does research in computational quantum chemistry at the University of Georgia.
+CCQC stands for the Center for Computational Quantum Chemistry. Here, our group does research at the intersection of chemistry, physics, and computer science. 
+In particular, we use computational tools, such as wavefunction theory, to explore a molecule's energetics, structure, reactivity, and other properties in an
+effort to achieve the highest possible accuracy as possible.
