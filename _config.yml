@@ -1,11 +1,15 @@
 title: HFS - CCQC
-email: emitchell@uga.edu
+email: ccq@uga.edu
 description: >
   Research group website for Henry F. Schaefer III, director of the 
   Center of Computational Quantum Chemistry part of the
   Department of Chemistry at the University of Georgia. 
+
+
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://ericacmitchell.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://hfs-ccqc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  CCQC
+project_repository: hfs-ccqc.github.io
 twitter_username: CCQC_UGA
 
 permalink: pretty
