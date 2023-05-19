@@ -1,10 +1,10 @@
 ---
-title: Henry Mull 
+title: Houston Givhan 
 layout: page
 menubar: people_menu
 ---
 
-![henrymull](/img/people/henrymull.jpg)
+![houstongivhan](/img/people/houstongivhan.jpg)
 
 ## Biography
 

@@ -7,6 +7,13 @@
 - name: Publications
   link: /publications/
 - name: Resources
-  link: /resources/
+  link: /#
+  dropdown:
+    - name: Lectures
+      link: /lectures/
+    - name: Software
+      link: /software/
+    - name: CCQC and SURO
+      link: /suro/ 
 - name: Blog
   link: /blog/

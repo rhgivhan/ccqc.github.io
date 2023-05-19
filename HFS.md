@@ -5,7 +5,7 @@ layout: page
 
 ## Biography
 
-## Reseach Interests
+## Research Interests
 
 ## Hobbies
 

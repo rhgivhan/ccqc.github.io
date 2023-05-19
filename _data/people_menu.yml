@@ -2,8 +2,8 @@
   items:
   - name: Sam Biggerstaff
     link: /people/sambiggerstaff/
-  - name: Houston Ghivan
-    link: /people/houstonghivan/
+  - name: Houston Givhan
+    link: /people/houstongivhan/
   - name: Jace Jin
     link: /people/jacejin/
   - name: Ethan Poncelet
@@ -32,10 +32,10 @@
     link: /people/alexheide/
   - name: Nate Kitzmiller
     link: /people/natekitzmiller/
-  - name: Henry Mull
-    link: /people/henrymull/
 - label: Research Scientists
   items:
+  - name: Dr. Mull
+    link: /people/henrymull/
   - name: Dr. Lahm
     link: /people/mitchelllahm/
   - name: Dr. Turney
@@ -44,3 +44,5 @@
   items:
   - name: Alumni
     link: /people/alumni/
+  - name: Undergraduates
+    link: /people/undergrad/
