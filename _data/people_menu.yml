@@ -26,9 +26,9 @@
     link: /people/ericamitchell/
 - label: Fourth Year
   items:
-  - name: Ally
-    link: /people/allyburke/
   - name: Ally Burke
+    link: /people/allyburke/
+  - name: Alex Heide
     link: /people/alexheide/
   - name: Nate Kitzmiller
     link: /people/natekitzmiller/
