@@ -1,0 +1,12 @@
+- name: HFS
+  link: /HFS/
+- name: People
+  link: /people
+- name: Research
+  link: /research/
+- name: Publications
+  link: /publications/
+- name: Software
+  link: /software/
+- name: Blog
+  link: /blog/
