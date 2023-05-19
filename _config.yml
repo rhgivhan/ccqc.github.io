@@ -5,7 +5,7 @@ description: >
   Center of Computational Quantum Chemistry part of the
   Department of Chemistry at the University of Georgia. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://ericacmitchell.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: CCQC_UGA
 
 permalink: pretty
