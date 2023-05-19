@@ -1,12 +1,12 @@
 - name: HFS
   link: /HFS/
 - name: People
-  link: /people
+  link: /people/
 - name: Research
   link: /research/
 - name: Publications
   link: /publications/
-- name: Software
-  link: /software/
+- name: Resources
+  link: /resources/
 - name: Blog
   link: /blog/

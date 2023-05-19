@@ -38,7 +38,7 @@
     link: /people/mitchelllahm/
   - name: Dr. Turney
     link: /people/jetturney/
-- label: Group Alumni
+- label: Past Members
   items:
-  - name: Alumni by Decade
-    link: /people/alumni
+  - name: Alumni
+    link: /people/alumni/
