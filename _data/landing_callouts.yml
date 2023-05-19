@@ -1,0 +1,21 @@
+style: is-dark
+height: is-medium
+items:
+  - title: Lectures
+    icon: fa-file
+    description: >
+      Set of notes and presentations from past group members.
+    call_to_action_name: Learn
+    call_to_action_link: /resources/lectures/
+  - title: Software
+    icon: fa-code
+    description: >
+      Collection of software projects maintained at the CCQC.
+    call_to_action_name: Explore
+    call_to_action_link: /resources/software/
+  - title: SURO/CURO
+    icon: fa-user
+    description: >
+      Opportunities for undergraduate research for both UGA and external students.
+    call_to_action_name: Find Out
+    call_to_action_link: /resources/suro/
