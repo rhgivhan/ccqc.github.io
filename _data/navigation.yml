@@ -4,6 +4,11 @@
   link: /people/
 - name: Research
   link: /research/
+  dropdown:
+    - name: Applications
+      link: /research/applications/
+    - name: Methods
+      link: /research/methods/
 - name: Publications
   link: /publications/
 - name: Resources

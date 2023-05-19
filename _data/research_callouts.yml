@@ -1,0 +1,13 @@
+style: is-dark
+height: is-medium
+items:
+  - title: Applications
+    icon: fa-vial
+    description: Projects using wavefunction theory
+    call_to_action_name: View
+    call_to_action_link: /research/applications/
+  - title: Method Development
+    icon: fa-code-branch
+    description: Coding projects in python and C++ 
+    call_to_action_name: View
+    call_to_action_link: /research/methods/
