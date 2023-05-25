@@ -13,7 +13,7 @@ project_repository: hfs-ccqc.github.io
 twitter_username: CCQC_UGA
 
 permalink: pretty
-#favicon: /path/to/favicon.png
+favicon: /img/icons/favicon.png
 #hide_share_buttons: true
 theme_color: '#b02b21'
 #fixed_navbar: top

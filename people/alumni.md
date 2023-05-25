@@ -47,7 +47,7 @@ menubar: people_menu
   - Assistant Professor - Patrick Henry College
 - Kevin Moore III
   - Ph.D. 2018
-  - Quantum Chemistry Applications Scientist - Schr&odinger
+  - Quantum Chemistry Applications Scientist - Schr&ouml;dinger
 - Kevin Murphy
   - Ph.D. 2018
   - Assistant Professor - Valley City State University
@@ -95,7 +95,7 @@ menubar: people_menu
   - Senior Director, Manufacturing 4.0 Strategy &amp; Transformation - Kimberley-Clark
 - Stefan Vogt Geisse
   - Ph.D. 2013
-  - Assistant Professor - Universidad de Concepcii&oacute;n
+  - Assistant Professor - Universidad de Concepci&oacute;n
 - Daisy Hollman
   - Ph.D. 2013
   - Staff Software Engineer - Google
@@ -136,6 +136,74 @@ menubar: people_menu
   - Principal Engineer, Battery, BMS, Simulation - KOMATSU AMERICA
 
 ## 2009 - 2000
+- Maria Lind
+  - Ph.D. 2008
+- Andy Simmnonett
+  - Ph.D. 2008
+  - QC Ware
+- Francesco Evangelista
+  - Ph.D. 2008
+  - Professor - Emory University
+- Sunghwan Kim
+  - Ph.D. 2007
+  - Staff Scientist - National Institutes of Health
+- Jun Zhang
+  - Ph.D. 2007
+- Partha Pratim Bera
+  - Ph.D. 2007
+  - Research Scientist - NASA Ames Research Center
+- Joseph Larkin
+  - Ph.D. 2006
+  - Chair of the Natural Sciences Collegium and Professor - Eckerd College
+- Steven Wheeler
+  - Ph.D. 2006
+  - Professor - University of Georgia
+- Veronika Kasalov&aacute;
+  - Ph.D. 2006
+  - Institute of Biophysics of the Academy of Sciences of the Czech Republic
+- Brian Papas
+  - Ph.D. 2006
+  - Bioinformatics Scientist - National Institute of Environmental Health Sciences
+- Suyun Wang
+  - Ph.D. 2006
+- Justin Turney
+  - Ph.D. 2006
+  - Senior Research Scientist - University of Georgia
+- Ge Yan
+  - Ph.D. 2005
+- Nathan DeYonker
+  - Ph.D. 2005
+  - Associate Professor - University of Memphis
+- Ankan Paul
+  - Ph.D. 2005
+  - Associate Professor - Indian Association for Cultivation of Science
+- Lubos Horny
+  - Ph.D. 2004
+  - Senior Data Scientist - PartnerRe
+- Se Li
+  - Ph.D. 2004
+- Kurt Sattelmeyer
+  - Ph.D. 2004
+- Michael Schuurman
+  - Ph.D. 2004
+  - Group Leader, Theory and Computation Group - National Research Council Canada
+- H. Lee Woodcock
+  - Ph.D. 2003
+  - Professor - University of South Florida
+- Nancy Richardson
+  - Ph.D. 2003
+  - Professor and Chemical Hygiene Officer - Liberty University
+- Joseph Kenny
+  - Ph.D. 2003
+  - Senior Member Of Technical Staff - Sandia National Laboratories
+- Levent Sari
+  - Ph.D. 2003
+  - University of Texas Southwestern Medical Center
+- Chaeho Pak
+  - Ph.D. 2002
+- Nicholas D. K. Petraco
+  - Ph.D. 2002
+  - Professor - City University of New York
 
 ## 1999 - 1990
 

@@ -37,3 +37,6 @@ menubar: people_menu
 - Julian Noonan
   - Undergrad: Taylor University
   - "The non-covalently bound SO...H<sub>2</sub>O system, including an interpretation of the differences between SO...H<sub>2</sub> O and O<sub>2</sub>...H<sub>2</sub>O"
+- Alex Winkles
+  - Undergrad: University of Georgia
+  - "Radicals derived from acetaldehyde and vinyl alcohol"

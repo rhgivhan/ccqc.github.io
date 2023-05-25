@@ -6,7 +6,7 @@ toc: true
 
 ## Focal Point Approach
 {:refdef: style="text-align: center;"}
-![FPA](/img/research/FPA_Example.png){: width="70%"}
+![FPA](/img/research/FPA_Example.png){: width="900"}
 {: refdef}
 {:refdef: style="text-align: center;"}
 Henry F. Mull, Justin M. Turney, Gary E. Douberly, and Henry F. Schaefer III.
@@ -17,7 +17,7 @@ DOI: [10.1021/acs.jpca.1c06252](https://doi.org/10.1021/acs.jpca.1c06252)
 - - -
 ## Reaction Pathways
 {:refdef: style="text-align: center;"}
-![PES](/img/research/PES_Example.png){: width="55%"}
+![PES](/img/research/PES_Example.png){: width="700"}
 {: refdef}
 {:refdef: style="text-align: center;"}
 Matthew M. Davis, Jared D. Weidman, Adam S. Abbott, Gary E. Douberly, Justin M. Turney, and Henry F. Schaefer.
@@ -28,7 +28,7 @@ DOI: [10.1063/1.511380](https://doi.org/10.1063/1.5113800)
 - - -
 ## Heavy Main Group Elements
 {:refdef: style="text-align: center;"}
-![HeavyEl](/img/research/HeavyEl_Example.png){: width="45%"}
+![HeavyEl](/img/research/HeavyEl_Example.png){: width="500"}
 {: refdef}
 {:refdef: style="text-align: center;"}
 Henry F. Mull, Peter R. Franke, Caroline Sargent, Gary E. Douberly, Justin M. Turney, and Henry F. Schaefer III. 

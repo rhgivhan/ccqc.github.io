@@ -6,7 +6,7 @@ toc: true
 
 ## Concordant Mode Approach
 {:refdef: style="text-align: center;"}
-![CMA](/img/research/CMA_Example.png){: width="50%"}
+![CMA](/img/research/CMA_Example.png){: width="600"}
 {: refdef}
 {:refdef: style="text-align: center;"}
 Mitchell E. Lahm, Nathaniel L. Kitzmiller, Henry F. Mull, Wesley D. Allen, and Henry F. Schaefer III.
