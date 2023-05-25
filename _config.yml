@@ -4,23 +4,37 @@ description: >
   Research group website for Henry F. Schaefer III, director of the 
   Center of Computational Quantum Chemistry, a part of the
   Department of Chemistry at the University of Georgia. 
+tagline: All Quantum, All the Time
 
-
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://hfs-ccqc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" 
+url: https://ccqc.github.io
+author: CCQC
 github_username:  CCQC
-project_repository: hfs-ccqc.github.io
-twitter_username: CCQC_UGA
+project_repository: ccqc.github.io
 
 permalink: pretty
 favicon: /img/icons/favicon.png
-#hide_share_buttons: true
 theme_color: '#b02b21'
-#fixed_navbar: top
-#direction: one of <ltr, rtl, auto>, default: ltr
+footer_menu: footer_menu.yml
+logo: /img/ccqc_logo.png
 
-paginate: 3
-paginate_path: "/blog/page:num"
+twitter:
+  username: CCQC_UGA
+  card: summary
+social:
+  name:
+  links:
+    - https://twitter.com/ccqc_uga?lang=en
+    - https://www.facebook.com/pages/Center-for-Computational-Quantum-Chemistry/107917969264397
+    - https://www.instagram.com/ccqc_at_uga/?igshid=NTc4MTIwNjQ2YQ%3D%3D
+    - https://github.com/CCQC
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /img/ccqc_logo.png
+      author: CCQC
 
 # Build settings
 remote_theme: chrisrhymes/bulma-clean-theme

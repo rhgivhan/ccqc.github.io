@@ -3,7 +3,6 @@ title: HFS - CCQC
 subtitle: All Quantum, All the Time
 layout: page
 callouts: home_callouts
-show_sidebar: true
 hero_image: /img/hero.jpg
 hero_height: is-fullheight
 hero_darken: true
